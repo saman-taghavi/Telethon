@@ -22,3 +22,4 @@ __pycache__/
 
 # File used to manually test new changes, contains sensitive data
 /example.py
+.vscode/settings.json
